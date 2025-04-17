@@ -1,11 +1,13 @@
-# Rocketseat Chessecake
-## ![Image](https://github.com/user-attachments/assets/fc4696b1-5640-4b90-9f85-cbbd958ba8ee)
+# Rocketseat Formulário Bootstrap
+## ![Image](https://github.com/user-attachments/assets/b947a47b-8459-4d9f-a35e-7e9dae1a6cc4)
 ## Sobre:
-Atividade de apredizagem frontend.
+Atividade de apredizagem bootstrap.
 ## Linguagens utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 - Html
 - CSS
+- Bootstrap
 ##
 Rocketseat: https://www.rocketseat.com.br/ <br>
-Ícones utilizados: https://fontawesome.com/
+Ícones utilizados: https://fontawesome.com/ <br>
+Bootstrap: https://getbootstrap.com/
