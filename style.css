@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Archivo:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*
+{
+    font-family: Poppins;
+}
+
+.row
+{
+    margin: 20px;
+}
+
+.voltar
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.linkvoltar
+{
+    color: #57534E;
+    text-decoration: none;
+}
+
+h1
+{
+    color: #292524;
+}
+
+h5
+{
+    color: #292524;
+}
+
+p
+{
+    color: #57534E;
+}
+
+.genero
+{
+    width: 312px;
+    height: 48px;
+}
+
+.card
+{
+    margin: 15px;
+}
+
+.form-check
+{
+    margin-top: 20px;
+}
+
+.laranja
+{
+    color: #E43A12;
+    text-decoration: none;
+}
+
+
+.b1
+{
+    width: 312px;
+    height: 48px;
+    background-color: white;
+    color: #E43A12;
+    border-color: #E43A12;
+    border-radius: 8px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.b2
+{
+    width: 312px;
+    height: 48px;
+    background-color: #E43A12;
+    color: white;
+    border-color: #E43A12;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.fundo
+{
+    background-color: #FEE7D6;
+}
+
+#link
+{
+    margin-top: 20px;
+    color:#E43A12;
+    text-decoration: none;
+}
+
+.fa-solid:hover
+{
+    transition: 0.2s;
+    font-size: 25px;
+}
+
